@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 - 👋 I'm a software architect, love to work with frameworks and technologies.
 - 🏠 I live in Yemen - Mukalla.
-- 👷‍ Building [TammPHP](https://github.com/tammdev/tammphp/) .
-- 🔭 I’m currently working on [TammPHP](https://github.com/tammdev/tammphp/) .
 
 <hr/>
 <img src="https://github-readme-stats.vercel.app/api?username=sowailem&count_private=true&show_icons=true&hide_title=true" />
